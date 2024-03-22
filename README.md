@@ -37,6 +37,7 @@
 ### ① 로그인 및 회원가입
 
 <img src="https://github.com/jaesin463/PlayGround/assets/117919180/f4d124f3-c8bd-42ca-8102-cdb5cd902c5e" width="50%" height="50%"/>
+
 - 유저 기능은 **네이버 소셜 회원가입**을 구현하였습니다.
 - 회원 가입시 네이버에서 회원의 정보를 가져와 저장합니다.
 - **JWT Refresh Token은 DB에 저장**합니다.
